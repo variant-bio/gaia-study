@@ -1,0 +1,13 @@
+# Example parameters for vb_HAP.nf (hap-eval).
+#
+#   nextflow run vb_HAP.nf -c configs/nextflow.local.config \
+#       -params-file examples/hap/params.yaml
+
+comp_manifest: examples/hap/comp_manifest.csv    # called alleles to evaluate
+truth_manifest: examples/hap/truth_manifest.csv  # truth haplotypes
+region_bed: examples/hap/regions.bed             # regions to score; 4th column = name
+
+# summary tables go to <outputBucket>/<studyID>/hap-eval/<libraryTypeCode>/
+outputBucket: /data/gaia/results
+studyID: GAIA-EXAMPLE
+libraryTypeCode: WGS

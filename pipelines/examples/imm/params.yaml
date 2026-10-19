@@ -1,0 +1,45 @@
+# Example parameters for vb_IMM.nf. Replace every path with your own copy.
+#
+#   nextflow run vb_IMM.nf -c configs/nextflow.local.config -profile docker \
+#       -params-file examples/imm/params.yaml
+#
+# Paths can be local (absolute) or object-store URIs (s3://, gs://, az://).
+
+# --- required -------------------------------------------------------------
+studyID: GAIA-EXAMPLE            # first level of the output tree
+libraryTypeCode: WGS-30X         # second level of the output tree
+outputBucket: /data/gaia/results # results: <outputBucket>/<studyID>/<libraryTypeCode>/<sampleID>/
+input: examples/imm/input.txt              # CRAM/BAM sample sheet (TSV)
+input_fastq: examples/imm/input_fastq.txt  # FASTQ sample sheet (TSV); only read by runFCGR,
+                                           # but must exist - header-only is fine
+exome: false                     # true -> T1K preset "hla" (WES); false -> "hla-wgs"
+combineOutputs: false
+
+# --- what to run ------------------------------------------------------------
+runHLA: true
+hlaCallers: [T1K]                # any of T1K, HLALA, Kourami
+runIGHG: true                    # T1K with the IGHC database
+runFCGR: false                   # Locityper on GRCh38 and CHM13 (needs input_fastq)
+runIGTRV: false                  # ImmunoTyper-SR on IG/TR V genes
+igtr_loci: [ighv, igkv, iglv, trav, trbv, trgv, trdv]
+maxIghvReads: 500000             # ImmunoTyper-SR --sample_reads
+
+# --- resources --------------------------------------------------------------
+# T1K processes fetch their allele databases with `aws s3 cp` from:
+#   <resourceBucket>/pipeline/hla/t1k/hlaidx_dna_{seq,coord}.fa
+#   <resourceBucket>/pipeline/t1k-ighg/HPRC-R2_IGHG_dna_{seq,coord_v2}.fa
+# (hla_t1k_db.tar.gz / ighc_t1k_db.tar.gz on Zenodo - Materials S1/S2).
+resourceBucket: s3://my-bucket/gaia-resources
+
+hlaDB: /data/gaia/resources/hla-la/PRG_MHC_GRCh38_withIMGT   # HLA*LA graph
+kouramiDB: /data/gaia/resources/kourami/db                    # Kourami panel
+
+# Locityper. These are staged even when runFCGR is false, so they must point
+# at files that exist (any placeholder file will do if you skip FCGR).
+locityperTech: illumina
+refFa: /data/gaia/resources/ref/GCA_000001405.15_GRCh38_no_alt_analysis_set.fna  # + .fai
+jellyfishRef: /data/gaia/resources/locityper/GRCh38_counts.jf
+locityperDb: /data/gaia/resources/locityper/db/GRCh38
+refFaCHM13: /data/gaia/resources/ref/hs1.fa                   # + .fai
+jellyfishRefCHM13: /data/gaia/resources/locityper/hs1_counts.jf
+locityperDbCHM13: /data/gaia/resources/locityper/db/hs1

@@ -1,0 +1,4 @@
+sampleID	cramfile	craifile
+HG00096	/data/gaia/cram/HG00096.final.cram	/data/gaia/cram/HG00096.final.cram.crai
+HG00097	/data/gaia/cram/HG00097.final.cram	/data/gaia/cram/HG00097.final.cram.crai
+NA12878	/data/gaia/cram/NA12878.final.cram	/data/gaia/cram/NA12878.final.cram.crai

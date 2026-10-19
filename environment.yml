@@ -1,0 +1,23 @@
+# Local environment for GAIA: Nextflow, the pipelines' helper scripts
+# (pipelines/bin/*.py), and a Rust toolchain for analysis_scripts/.
+#
+#   conda env create -f environment.yml
+#   conda activate gaia
+#
+# The genotyping tools themselves (T1K, HLA*LA, Kourami, Locityper,
+# ImmunoTyper-SR) are NOT installed here; vb_IMM.nf runs them inside
+# containers - see "Containers" in README.md.
+name: gaia
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - nextflow>=23.10
+  - openjdk>=17
+  - samtools>=1.17
+  - pysam>=0.22
+  - numpy
+  - pandas
+  - scipy
+  - rust>=1.85

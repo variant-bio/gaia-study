@@ -1,0 +1,5 @@
+sample,id,bam
+HG00731,HG00731_10X,/data/gaia/calls/HG00731_10X.calls.bam
+HG00731,HG00731_30X,/data/gaia/calls/HG00731_30X.calls.bam
+HG00732,HG00732_10X,/data/gaia/calls/HG00732_10X.calls.bam
+HG00732,HG00732_30X,/data/gaia/calls/HG00732_30X.calls.bam

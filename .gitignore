@@ -1,0 +1,10 @@
+.vscode/**
+.DS_Store
+# build / run artefacts
+analysis_scripts/target/
+work/
+.nextflow/
+.nextflow.log*
+results/
+__pycache__/
+*.py[cod]

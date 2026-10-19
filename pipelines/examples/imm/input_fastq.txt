@@ -1,0 +1,4 @@
+sampleID	fastq1	fastq2
+HG00096	/data/gaia/fastq/HG00096_L001_R1.fastq.gz	/data/gaia/fastq/HG00096_L001_R2.fastq.gz
+HG00096	/data/gaia/fastq/HG00096_L002_R1.fastq.gz	/data/gaia/fastq/HG00096_L002_R2.fastq.gz
+HG00097	/data/gaia/fastq/HG00097_R1.fastq.bz2	/data/gaia/fastq/HG00097_R2.fastq.bz2
