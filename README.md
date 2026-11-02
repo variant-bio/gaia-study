@@ -1,11 +1,13 @@
 # Global Atlas of Immune Alleles (GAIA) Study
 
-This repository accompanies the GAIA study. It contains the Nextflow pipelines
-used to genotype immune loci and benchmark the calls, and the Rust tool used for
-the majority allelic diversity (MAD) resampling analyses.
+This repository accompanies the GAIA study. It contains the supplementary data
+tables, the Nextflow pipelines used to genotype immune loci and benchmark the
+calls, and the Rust tool used for the majority allelic diversity (MAD)
+resampling analyses.
 
 | Path | Contents |
 |------|----------|
+| [data_tables/](data_tables/) | Supplementary Tables S1–S33 as tab-delimited text, described in [data_tables/README.md](data_tables/README.md) |
 | [pipelines/vb_IMM.nf](pipelines/vb_IMM.nf) | Genotyping of HLA, IGHC (IGHG), FCGR and IG/TR V genes from WGS/WES CRAMs |
 | [pipelines/vb_HAP.nf](pipelines/vb_HAP.nf) | hap-eval: base-level benchmarking of called alleles against truth haplotypes |
 | [pipelines/modules/vb_pipeline.nf](pipelines/modules/vb_pipeline.nf) | Process definitions shared by both workflows |
@@ -260,3 +262,19 @@ The pipeline code makes these assumptions, which you may need to work around:
 
 `LBTP-WGS-5X` / `-10X` / `-30X` in Tables S15–S19 are library-type codes for
 the downsampled coverages (5×, 10×, 30× WGS).
+
+---
+
+## 5. Data tables
+
+The supplementary tables are in [data_tables/](data_tables/) as tab-delimited
+text, one file per table. [data_tables/README.md](data_tables/README.md) gives
+each table's caption and columns. The T1K HLA and IGHC databases are on Zenodo
+(Materials S1 and S2).
+
+### Data use
+
+The supplementary data tables are provided for non-commercial research use
+only. Users must not attempt to re-identify, or to link the data to, any
+individual or group of participants, or combine it with other data for that
+purpose.

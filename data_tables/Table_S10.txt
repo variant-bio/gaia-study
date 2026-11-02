@@ -1,0 +1,187 @@
+Group Code	Locus	Allele	Tier	Category	Effect	Notes
+AFR	A	A*36:01	1.0	HIV	Susceptibility	Associated with high viral load in HIV seroconverters in Zambian cohorts
+AMRN	A	A*68:03	1.0	HIV	Susceptibility	Identified as HIV risk allele in Mesoamerican populations
+AFR	A	A*74:01	1.0	HIV	Protective	Associated with lower viral load, higher CD4+ count, and strong protection from HIV-1 acquisition/progression; consistently protective across multiple African cohorts
+EUR	B	B*14:01	1.0	HIV	Protective	B27 supertype member; Bw6 allele associated with delayed HIV disease progression
+OCE	B	B*27:04	1.0	Autoimmune		One of the most common AS-associated B27 subtypes; strongly linked to ankylosing spondylitis, reactive arthritis, psoriatic arthritis, and acute anterior uveitis; demonstrates reduced folding rate contributing to ER stress pathogenesis
+ASIA	B	B*27:06	1.0	Autoimmune	Protective/Neutral	B27 subtype NOT associated with ankylosing spondylitis; normal folding rate; clinically important for distinguishing pathogenic from benign B27 results
+AMR	B	B*39:06	1.0	HIV	Susceptibility	Identified as HIV risk allele in Latin American Mestizo populations
+AFR	B	B*39:10	1.0	HIV		B7 supertype member; presents shared immunodominant TL9 HIV epitope alongside B*81:01 and B*42:01
+AFR	B	B*42:01	1.0	HIV	Protective	Presents multiple Gag epitopes; 0.52 log10 lower viral-load set point vs B*42:02; effect ~75% of B*57:03
+AFRE	B	B*57:02	1.0	HIV	Protective	Protective B57 subtype; differs from B*57:03 by one amino acid; hierarchy of protection: B*58:01 < B*57:02 < B*57:03
+AFR	B	B*57:03	1.0	HIV	Protective	Strongest HLA class I allele for HIV elite control; most prevalent B*57 subtype in sub-Saharan Africa (~4-5%); drives multiple p24 Gag-specific CD8+ T-cell responses
+AFR	B	B*58:02	1.0	HIV	Susceptibility	Strongly correlated with high viral load in clade C infection; disease-susceptibility allele despite close relation to protective B*58:01 (differs by 3 amino acids). NOT associated with allopurinol hypersensitivity (that is B*58:01)
+AFR	B	B*81:01	1.0	HIV	Protective	Bw6 allele associated with delayed HIV disease progression; restricts immunodominant p24 Gag TL9 response; drives escape mutations that reduce viral fitness
+ASIA	B	B*15:02	2.0	Pharmacogenomic		Strongly associated with carbamazepine-induced SJS/TEN (OR=113.4); FDA-mandated screening before carbamazepine/oxcarbazepine in Asian-ancestry patients; CPIC guideline exists
+CAS	B	B*15:08	2.0	Pharmacogenomic		HLA-B75 serotype member; shares carbamazepine binding capability with B*15:02; may confer similar SJS/TEN risk
+SEAS	B	B*15:11	2.0	Pharmacogenomic		HLA-B75 serotype member; significant association with carbamazepine-induced SJS after excluding B*15:02 carriers
+ASIA	A	A*02:07	3.0	Cancer		Strongly associated with NPC susceptibility in Chinese populations (OR=2.3); common among Chinese but absent in Caucasians; risk further increased with B*46:01 co-carriage
+AFRW	B	B*27:03	3.0	Autoimmune		B27 subtype; less well-established AS association than B*27:04/05 but part of B27 family warranting clinical attention
+ASIA	B	B*38:02	3.0	Cancer		HLA-B*38:02 associated with increased NPC risk in Taiwanese populations
+ASIA	B	B*46:01	3.0	Cancer		Most significantly associated HLA allele with nasopharyngeal carcinoma (NPC) in Southern Chinese; risk increased further with co-carriage of A*02:07 (OR=2.8); also predicted to have fewest SARS-CoV-2 binding peptides
+AFRS	DQA1	DQA1*05:02	3.0	Autoimmune		Part of DQ2 haplotype; when combined with DQB1*02, associated with celiac disease susceptibility
+AMR	DQA1	DQA1*05:03	3.0	Autoimmune		DQA1*05 group member; DQ2-related; potential celiac disease relevance depending on DQB1 pairing
+ASIA	DQB1	DQB1*04:01	3.0	Autoimmune		Associated with type 1 diabetes risk in some East Asian populations
+EUR	DRB1	DRB1*01:03	3.0	Autoimmune	Protective	DERAA-encoding allele; protective against rheumatoid arthritis
+AMR	DRB1	DRB1*04:02	3.0	Autoimmune	Protective	DERAA-encoding allele; associated with lower susceptibility to rheumatoid arthritis and less severe disease; also classified as protective epitope (PE) allele
+EAS	DRB1	DRB1*04:06	3.0	Neurodegeneration		DRB1*04 subtype; weaker protective effects against Alzheimer's and Parkinson's disease compared to *04:04 and *04:07
+OCE	DRB1	DRB1*04:10	3.0	Autoimmune		DRB1*04 family member; the broader *04 group is associated with RA susceptibility via the shared epitope
+AMR	DRB1	DRB1*04:11	3.0	Autoimmune		DRB1*04 family member; the broader *04 group is associated with RA susceptibility via the shared epitope
+AFR	DRB1	DRB1*08:04	3.0	Autoimmune		Some associations with autoimmune thyroid disease in African populations
+AFR	DRB1	DRB1*13:04	3.0	Autoimmune	Protective	DERAA-encoding allele; protective against rheumatoid arthritis
+AFRW	DRB1	DRB1*13:04	3.0	Autoimmune	Protective	DERAA-encoding allele; protective against rheumatoid arthritis
+SEAS	DRB1	DRB1*13:12	3.0	Autoimmune		DRB1*13 group; *13:01 and *13:02 are DERAA alleles protective against RA; *13:12 likely shares some protective properties
+AMR	DRB1	DRB1*14:02	3.0	Autoimmune		Associated with RA susceptibility in some Native American populations (Pima, Yakima Indians)
+CAS	DRB1	DRB1*14:03	3.0	Autoimmune	Protective	Associated with protective effects against systemic lupus erythematosus in Japanese populations
+ASIA	DRB1	DRB1*14:04	3.0	Autoimmune		DRB1*14 group associated with pemphigus vulgaris susceptibility across ethnic groups; DRB1*14 also protective against multiple sclerosis
+AMRN	DRB1	DRB1*14:06	3.0	Autoimmune		Associated with leprosy susceptibility in Argentine populations; DRB1*14:06 also identified as protective against systemic sclerosis in Japanese
+OCE	DRB1	DRB1*14:07	3.0	Autoimmune		DRB1*14 group member; broader group associated with pemphigus susceptibility and MS protection
+MEL	DRB1	DRB1*14:07	3.0	Autoimmune		DRB1*14 group member; broader group associated with pemphigus susceptibility and MS protection
+OCE	DRB1	DRB1*14:08	3.0	Autoimmune		DRB1*14 group member; broader group associated with pemphigus susceptibility and MS protection
+SAS	DRB1	DRB1*15:06	3.0	Autoimmune		DRB1*15 group broadly associated with multiple sclerosis susceptibility
+AFR	A	A*02:02	4.0	Emerging/Limited		Part of A02 supertype; associated with low risk of HIV-1 transmission in female sex workers in some African cohorts
+ASIA	A	A*02:03	4.0	Emerging/Limited		A02 supertype member; limited independent disease associations
+WAS	A	A*24:03	4.0	HIV		Some associations with HIV disease outcomes in West Asian populations
+AFRS	A	A*43:01	4.0	Emerging/Limited		Rare allele largely restricted to Southern African (Khoe-San) populations; limited disease association data
+WAS	A	A*69:01	4.0	Emerging/Limited		Rare HLA-A allele; limited disease association data
+OCE	B	B*15:06	4.0	Emerging/Limited		B75-related serotype; potential pharmacogenomic relevance for carbamazepine but less well-established than B*15:02
+AFRE	B	B*44:15	4.0	Emerging/Limited		B*44 group has context-dependent HIV associations; *44:03 is protective; limited data on *44:15 specifically
+AFRN	B	B*50:02	4.0	Emerging/Limited		Limited disease association data
+ISEA	B	B*51:02	4.0	Emerging/Limited		B*51 group has context-dependent HIV associations; protective in B clade but potentially disease-susceptible in C clade infection
+CAS	B	B*73:01	4.0	Emerging/Limited		Some associations with autoimmune conditions in Central/South Asian populations; limited evidence
+AFRW	B	B*78:01	4.0	Emerging/Limited		Rare allele found in West African populations; limited disease association data
+AFRC	B	B*82:02	4.0	Emerging/Limited		Very rare allele; limited disease association data
+AFR	C	C*08:04	4.0	Emerging/Limited		Limited independent disease associations; HLA-C alleles modulate NK cell activity via KIR interactions
+ASIA	DPB1	DPB1*09:01	4.0	Transplant		DPB1 alleles increasingly recognized in transplant outcomes; *09:01 associated with anti-Topo-I antibody response in systemic sclerosis in Japanese
+PLN	A	A*02:12				
+CAS	A	A*02:783				
+AFR	A	A*23:17				
+ASIA	A	A*24:07				
+ASIA	A	A*24:10				
+AFR	A	A*30:04				
+AFRC	A	A*32:106				
+AFR	A	A*34:02				
+AFR	A	A*66:01				
+ASIA	B	B*07:06				
+AFRC	B	B*14:03				
+AMR	B	B*15:04				
+AMRS	B	B*15:04				
+AFR	B	B*15:10				
+ASIA	B	B*15:13				
+ISEA	B	B*15:13				
+ISEA	B	B*15:35				
+ASIA	B	B*18:02				
+ISEA	B	B*18:02				
+AMRN	B	B*35:12				
+AMRN	B	B*35:17				
+ISEA	B	B*35:30				
+AMRS	B	B*39:09				
+AFRN	B	B*39:24				
+AMR	B	B*40:04				
+AMRS	B	B*40:04				
+ASIA	B	B*40:06				
+OCE	B	B*40:10				
+AFRN	B	B*40:12				
+EURE	B	B*44:27				
+SAS	B	B*51:06				
+OCE	B	B*55:02				
+OCE	B	B*56:01				
+OCE	B	B*56:02				
+AFRC	C	C*02:14				
+AFRN	C	C*04:04				
+ISEA	C	C*04:06				
+AFRE	C	C*04:07				
+OCE	C	C*04:82				
+CAS	C	C*08:03				
+CAS	C	C*08:06				
+CAS	C	C*12:05				
+AFR	C	C*15:05				
+ASIA	C	C*16:02				
+AFR	C	C*18:01				
+AFR	C	C*18:02				
+AFRC	DMB	DMB*01:09				
+SAS	DOA	DOA*01:08				
+EURE	DOA	DOA*01:09				
+ASIA	DOA	DOA*01:10				
+CAS	DOA	DOA*01:14				
+AFR	DOB	DOB*01:16				
+AFRS	DOB	DOB*01:16				
+EUR	DPA1	DPA1*01:04				
+AFR	DPA1	DPA1*01:12				
+AFRE	DPA1	DPA1*01:12				
+WAS	DPA1	DPA1*01:14				
+PLN	DPA1	DPA1*01:33				
+AFRC	DPA1	DPA1*01:58				
+EUR	DPA1	DPA1*02:06				
+EURNW	DPA1	DPA1*02:06				
+PLN	DPA1	DPA1*02:33				
+OCE	DPA1	DPA1*02:38				
+ASIA	DPA1	DPA1*04:01				
+AFR	DPA1	DPA1*04:02				
+ASIA	DPB1	DPB1*107:01				
+CAS	DPB1	DPB1*126:01				
+AFR	DPB1	DPB1*131:01				
+AFRN	DPB1	DPB1*133:01				
+EUR	DPB1	DPB1*15:01				
+AFRE	DPB1	DPB1*1562:01				
+AFR	DPB1	DPB1*18:01				
+EAS	DPB1	DPB1*19:01				
+ASIA	DPB1	DPB1*26:01				
+ASIA	DPB1	DPB1*296:01				
+AFRE	DPB1	DPB1*30:01				
+ISEA	DPB1	DPB1*31:01				
+AFRN	DPB1	DPB1*352:01				
+AFRC	DPB1	DPB1*49:01				
+AFRE	DPB1	DPB1*55:01				
+AFRE	DPB1	DPB1*65:01				
+AFR	DPB1	DPB1*665:01				
+OCE	DPB1	DPB1*909:01				
+MEL	DPB1	DPB1*909:01				
+AFRE	DQA1	DQA1*01:63				
+CAS	DQA1	DQA1*03:18				
+EURE	DQA1	DQA1*04:02				
+ASIA	DQA1	DQA1*05:09				
+AFRN	DQB1	DQB1*03:09				
+OCE	DQB1	DQB1*03:276				
+AFRC	DQB1	DQB1*06:08				
+EUR	DQB2	DQB2*01:03				
+ASIA	DQB2	DQB2*01:10				
+CAS	DRB1	DRB1*11:12				
+CAS	DRB1	DRB1*16:75				
+AFR	DRB3	DRB3*02:193				
+ASIA	DRB3	DRB3*02:22				
+ASIA	DRB5	DRB5*01:03				
+EURS	DRB5	DRB5*02:06				
+AFR	E	E*01:05				
+EURE	E	E*01:09				
+EAS	E	E*01:12				
+AFRC	E	E*01:152				
+AFR	F	F*01:02				
+EUR	F	F*01:04				
+EAS	F	F*01:05				
+EURE	F	F*01:11				
+SEAS	F	F*01:14				
+AFRN	G	G*01:26				
+CAS	G	G*01:38				
+AFR	H	H*01:04				
+AFR	H	H*02:10				
+AFR	H	H*02:11				
+AMR	H	H*02:12				
+AFR	H	H*02:23				
+AFRW	H	H*02:25				
+AFRC	MICA	MICA*002:08				
+AFR	MICA	MICA*008:13				
+CAS	MICA	MICA*010:02				
+AFR	MICA	MICA*015:01				
+CAS	MICA	MICA*029:01				
+OCE	MICA	MICA*033:01				
+MEL	MICA	MICA*033:01				
+AFR	MICA	MICA*041				
+AFRE	MICA	MICA*043				
+AFRN	MICA	MICA*101				
+AFR	MICA	MICA*110				
+ASIA	MICA	MICA*250:01				
+EURNW	MICB	MICB*013:01				
+OCE	MICB	MICB*021:01				
+AFR	TAP2	TAP2*01:07				
+AFR	TAP2	TAP2*02:04				

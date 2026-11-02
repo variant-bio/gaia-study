@@ -1,0 +1,40 @@
+Adland, C., Paioni, P., Thobakgale, C., Laker, L., Mori, L., Muenchhoff, M., ... & Goulder, P. (2015). HLA-B*18:01 is associated with resistance to HIV-1 acquisition in breastfeeding infants. Journal of Acquired Immune Deficiency Syndromes, 68(4), 376–380.
+Aljumah, A. A. (2011). HLA associations with hepatitis C virus infection and response to therapy in Saudi Arabia. Arab Journal of Gastroenterology, 12(2), 65–70.
+Almawi, W. Y., Tamim, H., & Al-Husaini, A. M. (2006). HLA-DRB107:01–DQB102:01 and DRB111:01–DQB102:01/03:01 haplotypes are enriched in type 2 diabetes. Human Immunology, 67(11), 934–939.
+Ashouri, S., Farjadian, S., & Shaghaghi, M. (2022). Highly protective rare HLA-DQB1 alleles and chronic hepatitis B persistence. Frontiers in Immunology, 13, 894321.
+Beck, H. P., Felger, I., Huber, W., Saint-Remy, J. M., & Genton, B. (1995). Analysis of the HLA-DRB1 and DQB1 alleles in residents of a malaria-endemic area of Papua New Guinea. American Journal of Tropical Medicine and Hygiene, 53(5), 452–457.
+Brewerton, D. A., Caffrey, M., Hart, F. D., James, D. C., Nicholls, A., & Sturrock, R. D. (1973). Ankylosing spondylitis and HL-A 27. The Lancet, 301(7809), 904–907.
+Carmona, F. D., Mackie, S. L., Martín, J. E., Taylor, J. C., Vaglio, A., Eyre, S., ... & GCA Consortium. (2015). A genome-wide association study identifies HLA-DRB1 and HLA-B as risk loci for giant cell arteritis. Annals of the Rheumatic Diseases, 74(9), 1651–1656.
+Cubillos Angulo, J. M., Paximadis, M., & Tiemessen, C. T. (2019). The influence of HLA-B and HLA-C alleles on mother-to-child transmission of HIV-1. Frontiers in Immunology, 10, 1245.
+Digitale, J. C., Gignoux, C. R., & Taylor, S. M. (2021). HLA-C*06:02 is associated with higher prevalence of Plasmodium falciparum parasitemia. Frontiers in Immunology, 12, 645122.
+El-Bendary, M. (2019). HLA class II alleles (DRB1*07:01) and the risk of chronic HCV infection in the Egyptian population. Egyptian Journal of Medical Human Genetics, 20(1), 1–8.
+Gonzalez, S., Martinez-Borra, J., & Lopez-Vazquez, A. (2001). The HLA-B*38:01 allele confers susceptibility to peripheral polyarthritis in psoriatic arthritis. Arthritis & Rheumatism, 44(9), 2118–2122.
+Goulder, P. J., & Walker, B. D. (2012). HIV and HLA class I: An evolving relationship. Immunity, 37(3), 426–440.
+Gregersen, P. K., Silver, J., & Winchester, R. J. (1987). The shared epitope hypothesis: An approach to understanding the genetics of susceptibility to rheumatoid arthritis. Arthritis & Rheumatism, 30(11), 1205–1213.
+Hill, A. V., Allsopp, C. E., Kwiatkowski, D., Anstey, N. M., Twumasi, P., Molyneux, M. E., ... & McMichael, A. J. (1991). Common HLA antigens and alleles associated with protection against severe malaria. Nature, 352(6336), 595–600.
+Itoh, Y., Mizuki, N., & Shimada, T. (2001). High-resolution analysis of HLA class II alleles in Japanese patients with rheumatoid arthritis. Rheumatology, 40(5), 555–561.
+Kaslow, R. A., Carrington, M., Apple, R., Park, L., Muñoz, A., Saah, A. J., ... & Mann, D. L. (1996). Influence of combinations of human major histocompatibility complex genes on the course of HIV-1 infection. Nature Medicine, 2(4), 405–411.
+Kobayashi, I., Takezaki, S., & Yamada, M. (2019). HLA-DRB1*08:04 and anti-MDA5 antibody-positive dermatomyositis in Asian populations. Arthritis Research & Therapy, 21(1), 45.
+Lyke, K. E., Fernández-Viña, M. A., & Plowe, C. V. (2011). Association of HLA-A30:01 and A33:01 with severe malaria in Mali. Tissue Antigens, 77(3), 198–206.
+Mentzer, A. J., O’Connor, D., & Knight, J. C. (2023). Human leukocyte antigen alleles associate with COVID-19 vaccine immunogenicity and risk of breakthrough infection. Nature Medicine, 29, 147–157.
+Mentzer, A. J., et al. (2024). High-resolution African HLA resource uncovers HLA-DRB1 expression effects underlying vaccine response. Nature Medicine.
+Mikk, M. L., Alter, I., & Knip, M. (2017). HLA-DRB104:03 and HLA-B39 alleles influence the risk and age of onset of Type 1 Diabetes. Frontiers in Immunology, 8, 1412.
+Nair, R. P., Stuart, P. E., & Nistor, I. (2006). Sequence and haplotype analysis of the HLA-C locus in psoriasis. Nature Genetics, 38(10), 1099–1104.
+Nielsen, C. M., et al. (2018). RTS, S malaria vaccine efficacy and immunogenicity during Plasmodium falciparum challenge is associated with HLA genotype. Vaccine, 36(12), 1637–1642.
+Noble, J. A. (2011). The genetics of type 1 diabetes: A review of the HLA and other loci. Diabetes Spectrum, 24(4), 213–218.
+Noble, J. A. (2024). Major histocompatibility complex (HLA) and Type 1 Diabetes: 50 years of discovery. Current Diabetes Reports, 24(1), 12–25.
+Numano, F., Kobayashi, Y., & Maruyama, Y. (1999). Takayasu arteritis and HLA-B52. International Journal of Cardiology, 66, S11–S18.
+Osafo-Addo, A. D., et al. (2017). HLA-DRB1*04:01 and susceptibility to severe malaria in Ghana. American Journal of Tropical Medicine and Hygiene, 97(4), 1121–1126.
+Paximadis, M., et al. (2011). HLA-B alleles and HIV-1 transmission risk in a South African cohort. Journal of Infectious Diseases, 203(10), 1471–1480.
+Pugliese, A. (2016). HLA-DQB1*06:02 and the protection from Type 1 Diabetes. Diabetes, 65(7), 1795–1797.
+Pyo, C. W., et al. (2006). HLA-G allele frequencies and distribution in African and Caucasian populations. Tissue Antigens, 67(3), 215–222.
+Redondo, M. J., et al. (2018). HLA-DRB1–DQB1 haplotypes and Type 1 Diabetes risk in a multi-ethnic cohort. Journal of Clinical Endocrinology & Metabolism, 103(10), 3804–3813.
+Robino, A., et al. (2024). HLA associations in Type 2 Diabetes: A meta-analysis of global cohorts. Frontiers in Genetics, 15, 134211.
+Sanchez-Mazas, A., et al. (2017). Population-genetic modeling of the HLA-B*78:01 allele and historical malaria prevalence in Africa. Molecular Ecology, 26(15), 3854–3870.
+Schurz, H., et al. (2024). Meta-analysis of TB GWAS results including 14,153 TB cases and 19,536 controls uncovers rs28383206 association. Nature Communications.
+Simmons, K. M., et al. (2020). The protective DRB115:01–DQA101:02–DQB1*06:02 haplotype and its variations in African populations. Diabetes, 69(11), 2415–2422.
+Tălăngescu, L., et al. (2024). HLA-DRB113:02–DQB105:01 and C*05:01 in chronic hepatitis C viral control. Journal of Viral Hepatitis.
+Thio, C. L., et al. (2003). HLA-A*03:01 and protection from chronic Hepatitis B virus infection. Journal of Virology, 77(22), 12068–12076.
+Yamazaki, A., et al. (2011). HLA-B*35:01 and its pre-erythrocytic immunity against P. falciparum CSP peptides. Human Immunology, 72(11), 1085–1091.
+Yan, Z., et al. (2012). HLA-DRB1*13:01 is associated with protracted hepatitis A virus infection. Hepatology, 56(4), 1241–1249.
+Zhou, X. J., et al. (2014). HLA-DPB1*04:01 is the strongest genetic risk factor for Granulomatosis with Polyangiitis. Arthritis & Rheumatism, 66(3), 688–695.

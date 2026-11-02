@@ -1,0 +1,19 @@
+Code	Subcontinental Group	Count	Modern Day Countries
+AFRC	Africa, Central	151	Angola, Cameroon, Central African Republic, Democratic Republic of Congo
+AFRE	Africa, Eastern	2593	Kenya, Malawi, Mozambique, Uganda, Zambia, Zimbabwe, Somalia, South Sudan, Tanzania
+AFRN	Africa, Northern	31	Egypt, Morocco, Tunisia, Sudan, Algeria, Western Sahara
+AFRS	Africa, Southern	2119	South Africa, Namibia
+AFRW	Africa, Western	1300	Benin, Côte d'Ivoire, Ghana, Guinea, Mali, Nigeria, The Gambia, Senegal, Sierra Leone
+AMRN	America, North	468	United States of America, Canada, Mexico, Barbados
+AMRS	America, South	1646	Brazil, Chile, Colombia, Peru
+CAS	Asia, Central	39	Kyrgyzstan, Pakistan, Russia, Tajikistan
+EAS	Asia, East	708	China, Japan, Nepal, South Korea, Taiwan
+EURE	Europe, Eastern	63	Albania, Bulgaria, Croatia, Czech Republic, Estonia, Greece, Hungary
+EURNW	Europe, Northwest	473	Finland, France, Iceland, Norway, Spain, Sweden, United Kingdom, United States of America
+EURS	Europe, Southern	292	Italy, Spain
+ISEA	Asia, Island Southeast	2536	Indonesia, Philippines
+MEL	Oceania, Melanesia	2053	New Caledonia, Australia, Bougainville, Papua New Guinea
+PLN	Oceania, Polynesia	2042	French Polynesia, New Zealand
+SAS	Asia, South	3475	India, Bangladesh, Nepal
+SEAS	Asia, Southeast	115	Cambodia, Malaysia, Myanmar, Thailand, Vietnam
+WAS	Asia, West	144	Armenia, Georgia, Iran, Israel, Jordan, Lebanon, Palestine, Turkey

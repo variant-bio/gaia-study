@@ -1,0 +1,23 @@
+Cohort	Source	Number of individuals	Source Genomic DNA		
+1000 Genomes High Coverage WGS	External	3202	LCL		
+Longitudinal Aging Study in India - Diagnostic Assessment of Dementia (LASI-DAD)	External	2662	Blood		
+Uganda Genome Resource (UGR)	External	1905	Blood		
+Health, Well-being and Aging in São Paulo State, Brazil (SABE)	External	1171	Blood		
+Human Genome Diversity Project (HGDP)	External	828	LCL		
+Gambian Genome Variation Project	External	398	Blood		
+MalariaGEN WGS Datasets	External	357	Blood		
+H3Africa WGS Datasets	External	353	Blood		
+Angola-Mozambique	External	329	Saliva		
+Simons Genome Diversity Project (SGDP)	External	279	Blood/Saliva		
+Indonesian Genome Diversity Project (IGDP)	External	243	Blood		
+Papuan Genome Diversity Project (PGDP)	External	58	Saliva		
+Kanak in New Caledonia Cohort	Internal	1762	Blood		
+Indonesia Cohort 1	Internal	1578	Saliva		
+Polynesians in New Zealand Cohort	Internal	1062	Blood		
+Ma’i ’u’u epidemiological study in French Polynesia	Internal	978	Blood		
+Indonesia Cohort 2	Internal	902	Blood		
+African Research on Kidney Disease (ARK) Consortium	Internal	757	Blood		
+Tsongans in South Africa Cohort (Internal)	Internal	693	Blood		
+Alur in Uganda Cohort	Internal	284	Blood		
+Malagasy in Madagascar Cohort	Internal	257	Saliva		
+Indigenous Chilean Cohort	Internal	190	Blood		

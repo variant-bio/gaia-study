@@ -1,0 +1,5 @@
+Gene	IMGT: Num. unique alleles	HPRC R2: Num. unique alleles	Num. overlap	Total alleles in DB
+IGHG1	14	31	8	53
+IGHG2	17	28	10	55
+IGHG4	13	47	6	66
+IGHGP	7	31	7	45
