@@ -1,7 +1,8 @@
 # Global Atlas of Immune Alleles (GAIA) Study
 
-This repository accompanies the GAIA study. It contains the supplementary data
-tables, the Nextflow pipelines used to genotype immune loci and benchmark the
+This repository accompanies the GAIA study, described in the preprint
+[*A Global Atlas of Immune Alleles Reveals Health-Relevant Variation Across Groups*](https://doi.org/10.64898/2026.11.02.26367118) (Harvey et al., medRxiv, 2026). It contains the supplementary
+data tables, the Nextflow pipelines used to genotype immune loci and benchmark the
 calls, and the Rust tool used for the majority allelic diversity (MAD)
 resampling analyses.
 
@@ -278,3 +279,10 @@ The supplementary data tables are provided for non-commercial research use
 only. Users must not attempt to re-identify, or to link the data to, any
 individual or group of participants, or combine it with other data for that
 purpose.
+
+---
+
+## 6. Citation
+
+Harvey WT, Emde AK, Kakembo FE, Hamid I, Clarke WE, Apriyana I, Babiker H, Rakotoarivony R, Hendershott M, Kasina P, Kalungi A, Ojewunmi O, Pascart T, Rosso S, Verdugo RA, Ferreccio C, Dessein A, Kusuma P, Priliani L, Malik SG, Fabian J, Ramsay M, Wasik KA, Fox K, Merriman TR, Fatumo S, Sudoyo H, Yerges-Armstrong L, Castel SE. *A Global Atlas of Immune Alleles Reveals Health-Relevant Variation Across Groups.* medRxiv, 2026.
+doi:[10.64898/2026.11.02.26367118](https://doi.org/10.64898/2026.11.02.26367118)
